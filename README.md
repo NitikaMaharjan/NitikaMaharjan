@@ -4,7 +4,7 @@ Computer Science student passionate about solving real-world problems through co
 
 #### 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=typescript,react,next,tailwind,php,python,nodejs,expressjs,mysql,mongodb,git,figma)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=typescript,react,next,sass,tailwind,php,python,nodejs,expressjs,mysql,mongodb,git,figma)](https://skillicons.dev)
 
 #### 📫 Contact
 
