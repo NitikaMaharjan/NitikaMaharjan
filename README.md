@@ -12,4 +12,4 @@ I'm Nitika, a **Web Developer** based in Nepal.
 
 #### 📫 Let's Connect
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-darkblue?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/nitikamaharjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--darkblue?style=for-the-badge)](https://www.linkedin.com/in/nitikamaharjan)
