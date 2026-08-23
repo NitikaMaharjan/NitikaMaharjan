@@ -8,7 +8,8 @@ I'm Nitika, a **Web Developer** based in Nepal.
 
 #### 🔗 My Website
 
-[![Website](https://img.shields.io/badge/Website-darkgreen?style=for-the-badge)](https://nitikamaharjan.vercel.app)
+[![Website](https://img.shields.io/badge/Website--darkgreen?style=for-the-badge)](https://nitikamaharjan.vercel.app)
 
 #### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nitikamaharjan)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-darkblue?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/nitikamaharjan)
