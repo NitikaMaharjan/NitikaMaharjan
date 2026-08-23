@@ -1,15 +1,14 @@
-### 👋 Hi, I'm Nitika
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Computer Science student passionate about solving real-world problems through code.
+I'm Nitika, a **Web Developer** based in Nepal.
 
-#### 💻 Tech Stack
+#### 💻 My Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=typescript,react,next,sass,tailwind,php,python,nodejs,expressjs,mysql,mongodb,git,figma)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=typescript,react,next,sass,tailwind,python,nodejs,expressjs,mysql,mongodb,git,figma)](https://skillicons.dev)
 
-#### 📫 Contact
+#### 🌐 My Website
 
-Email: [maharjanitika@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=maharjanitika@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%230E76A8.svg?style=for-the-badge)](https://nitikamaharjan.vercel.app)
 
-#### 🌐 Personal Website
-
-Link: [nitikamaharjan.vercel.app](https://nitikamaharjan.vercel.app)
+#### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nitikamaharjan)
